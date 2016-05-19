@@ -10,6 +10,7 @@ _site: 存放最终生成的文件
 ---
 layout: post
 title: xxxxx
+pemalink: /hello/ #让博客中的URL地址不同于默认值 /year/month/day/title.html 
 category: tech
 ---
 
