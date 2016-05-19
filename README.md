@@ -1,4 +1,6 @@
-# jekyll   http://jekyll.bootcss.com/
+### jekyll   http://jekyll.bootcss.com/
+
+```
 _config.yml: 配置文件
 _layouts: 模板文件
 _post: 博客的内容，year-month-date-file.m
@@ -10,4 +12,6 @@ layout: post
 title: xxxxx
 category: tech
 ---
+
+```
 
