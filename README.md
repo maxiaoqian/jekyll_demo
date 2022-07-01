@@ -7,7 +7,7 @@ _layouts: 模板文件
 _post: 博客的内容，year-month-date-file.m
 _includes: 可重复利用的文件.
 _site: 存放最终生成的文件
-对于目录下的每个文件，使用YAML Front Matter(---   ---)之后，都会被转格式，然后生成最终文件。
+对于目录下的每个文件，使用YAML Front Matter(---   ---)之后，都会被转格式，然后生成最终文件999999。
 *头信息
 ---
 layout: post
